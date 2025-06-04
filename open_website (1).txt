@@ -1,0 +1,13 @@
+
+DELAY 1000 
+GUI SPACE 
+DELAY 1000 
+STRING safari 
+DELAY 1000 
+ENTER 
+DELAY 1000 
+GUI L 
+REM Insert your website below 
+STRING https://youtube.com/@peachgt_12?si=p_N5-NikSRXxt1Is
+DELAY 100
+ENTER

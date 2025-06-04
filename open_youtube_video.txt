@@ -1,0 +1,7 @@
+
+DELAY 500
+GUI r
+DELAY 500
+STRING https://youtube.com/@peachgt_12?si=p_N5-NikSRXxt1IsENTER
+DELAY 1000
+F11

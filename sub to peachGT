@@ -1,0 +1,16 @@
+REM Author: SeenKid (seenkid on discord)
+REM Thanks : yellowstar520 for reporting me the error with the previous script
+REM Description: Open a website 
+REM Version 2.0
+DELAY 1000 
+GUI SPACE 
+DELAY 100
+STRING safari 
+DELAY 100 
+ENTER 
+DELAY 100
+GUI L 
+REM Insert your website below 
+STRING https://youtube.com/@peachgt_12?si=p_N5-NikSRXxt1Is
+DELAY 100 
+ENTER
